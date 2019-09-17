@@ -7,7 +7,7 @@
 
 #define SPACE_FORCE_SURVIVAL_POOL FString("space_force_survival")
 #define SETTING_OCULUS_POOL FName(TEXT("OCULUSPOOL"))
-#define SETTING_SESSION_NAME FName(TEXT("Session_Name"))
+#define SETTING_SESSION_NAME FName(TEXT("SESSIONNAME"))
 
 void USFGameInstance::ReadOnlineFriends()
 {
